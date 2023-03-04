@@ -35,7 +35,7 @@ public class Polymorphism{
         td.poly(cp);
         td.poly(pp);
         ((Cargoplane) cp).special();
-        ((Cargoplane) pp).special();
+        ((Passengerplane) pp).special();
     
 
     }
